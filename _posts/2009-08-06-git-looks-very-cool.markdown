@@ -4,7 +4,7 @@ very nice too so I'm trying out some of its features including [GitHub Pages][3]
 and [Jekyll][4]. I don't think we are going to abandon svn immediately but I
 could see myself starting to use git-svn and phasing out svn over time.
 
-[1] http://git-scm.com/
-[2] https://github.com/
-[3] http://github.com/blog/272-github-pages
-[4] http://github.com/mojombo/jekyll
+[1]: http://git-scm.com/
+[2]: https://github.com/
+[3]: http://github.com/blog/272-github-pages
+[4]: http://github.com/mojombo/jekyll
