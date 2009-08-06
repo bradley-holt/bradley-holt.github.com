@@ -1,3 +1,8 @@
+---
+layout: default
+title: Git Looks Very Cool
+---
+
 I've been reading up on, and playing around with, [Git][1] and I have to say it
 is looking like a very nice tool for managing source code. [GitHub][2] looks
 very nice too so I'm trying out some of its features including [GitHub Pages][3]
