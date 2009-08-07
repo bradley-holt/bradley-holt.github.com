@@ -4,6 +4,7 @@ layout: default
 
     <div class="hentry">
       <h2 class="entry-title"><a href="{{ page.url }}" title="Permalink to {{ page.title }}" rel="bookmark">{{ page.title }}</a></h2>
+      <div class="entry-date"><abbr class="published" title="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</abbr></div>
       {{ content }}
     </div>
 
